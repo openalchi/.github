@@ -9,7 +9,7 @@ OpenALCHI is a unique NFT game that allows players to explore, create, and mint 
 
 ## 🔗 Key Links
 - **Official Website:** [OpenALCHI](https://openalchi.xyz)
-- **Twitter:** [@OpenALCHI](https://twitter.com/TOpenALCHI)
+- **Twitter:** [@TOpenALCHI](https://twitter.com/TOpenALCHI)
 - **Telegram Group:** [Join our community](https://t.me/OpenALCHI)
 - **Discord:** [Join our server](https://discord.com/invite/4Uhs5qXKuZ)
 - **GitHub Repositories:** [Explore the code](https://github.com/openalchi)
